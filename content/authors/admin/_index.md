@@ -30,7 +30,7 @@ education:
   - course: Master 2 Administration et Sécurité des Réseaux
     institution: Université de Reims
     year: 2020
-  - course: Licence professionnelle Administration de Réseaux et Services.
+  - course: Licence professionnelle Administration de Réseaux et Services
     institution: UFR Mathématique Informatique - Université de Strasbourg
     year: 2018
   - course: DUT Réseau et Télécommunications
