@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "linux"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Linux"
+  description = "Administration de systèmes debian, ubuntu & CentOS"  
+
+[[feature]]
+  icon = "gitlab"
+  icon_pack = "fab"
+  name = "gitlab"
+  description = "Utilisation de Git et mise en place de pipelines CI/CD"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "Pi Lover"
+  description = "Utilisation de raspberry pi pour toutes genre de tâches"
 
 # Uncomment to use emoji icons.
 # [[feature]]
