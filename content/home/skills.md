@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "gitlab"
   icon_pack = "fab"
-  name = "gitlab"
+  name = "Gitlab"
   description = "Utilisation de Git et mise en place de pipelines CI/CD"
   
 [[feature]]
