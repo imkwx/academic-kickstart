@@ -64,4 +64,8 @@ email: "contact@robinbrucker.fr"
 #- Visitors
 ---
 
-Ici c'est du texte
+Bienvenue sur mon site, je suis un ingénieur réseau passionné par ce dernier, mais également par la virtualisation, l'hebergement web et les moyens d'automatiser l'ensemble de ces technos.
+J'utilise beaucoup Ansible, Python, Docker et Git pour parvenir à mes fins.
+
+Mon orientation principalement tournée vers le réseau ne m'empêche pas de gérer des systèmes Linux et d'héberger des services web pour mon utilisation personnelle.
+De manière générale je me vois un peu comme un développeur full-stack de l'infrastructure avec une approche devops. 
