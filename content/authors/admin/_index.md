@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Robin Brucker
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ingénieur Réseau
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Université de Strasbourg
+  url: "https://unistra.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Passionné de réseau, du web, et de la virtualisation ainsi que les moyens d'automatiser ces derniers.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Automatisation
+- Hébergement
+- Services Réseaux
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master 2 Administration et Sécurité des Réseaux
+    institution: Université de Reims
+    year: 2020
+  - course: Licence professionnelle Administration de Réseaux et Services.
+    institution: UFR Mathématique Informatique - Université de Strasbourg
+    year: 2018
+  - course: DUT Réseau et Télécommunications
+    institution: IUT de Colmar
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:contact@robinbrucker.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/imKwX
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +63,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
