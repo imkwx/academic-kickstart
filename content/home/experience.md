@@ -22,14 +22,28 @@ date_format = "Jan 2006"
   company = "Université de Strasbourg"
   company_url = "https://unistra.fr"
   location = "Strasbourg"
-  date_start = "2017-01-01"
+  date_start = "2018-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Blabla1
-  * Blabla2
-  * Deploying
+* Mise en place du Zero Touch Provisionning
+* Utilisation d'Ansible pour le déploiement à grande échelle d'équipements réseau
+  """
+
+
+[[experience]]
+  title = "Apprenti Ingénieur Réseau"
+  company = "Université de Strasbourg"
+  company_url = "https://unistra.fr"
+  location = "Strasbourg"
+  date_start = "2017-09-01"
+  date_end = "2018-08-01"
+  description = """
+* Amélioration de la solution de monitoring mise en place
+* Jouvence des équipements réseau
+Automatisation du réseau à l'aide d'Ansible :
+* Gestion et mise en cohérence des configurations existantes
+* Déploiement et modification des équipements réseau
+* Travail sur la mise en place d'une solution utilisant du "ZTP"
   """
 
 [[experience]]
@@ -37,8 +51,11 @@ date_format = "Jan 2006"
   company = "Université de Strasbourg"
   company_url = "https://unistra.fr"
   location = "Strasbourg"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2017-04-01"
+  date_end = "2017-07-01"
+  description = """Mise en place d'une solution de monitoring réseau basé sur des sondes type Raspberry Pi :
+* Déploiement d'une stack TIG ( Telegraf Influx Grafana )
+* Automatisation du deploiement avec Ansible
+* Recherches sur le standard 802.1ag permettant le monitoring au niveau 2 de la couche OSI"""
 
 +++

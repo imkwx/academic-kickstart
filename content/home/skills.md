@@ -30,7 +30,7 @@ subtitle = ""
   icon = "raspberry-pi"
   icon_pack = "fab"
   name = "Pi Lover"
-  description = "Utilisation de raspberry pi pour toutes genre de tâches"
+  description = "Utilisation de raspberry pi comme sondes réseau, serveur console-série"
 
 # Uncomment to use emoji icons.
 # [[feature]]
