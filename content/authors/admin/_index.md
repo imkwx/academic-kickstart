@@ -68,4 +68,4 @@ Bienvenue sur mon site, je suis un ingénieur réseau passionné par ce dernier,
 J'utilise beaucoup Ansible, Python, Docker et Git pour parvenir à mes fins.
 
 Mon orientation principalement tournée vers le réseau ne m'empêche pas de gérer des systèmes Linux et d'héberger des services web pour mon utilisation personnelle.
-De manière générale je me vois un peu comme un développeur full-stack de l'infrastructure avec une approche devops. 
+De manière générale, j'ai une approche "netops" ou "devops" dans mon travail.
