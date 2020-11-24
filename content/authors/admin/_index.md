@@ -14,6 +14,8 @@ role: Ingénieur Réseau
 
 # Organizations/Affiliations
 organizations:
+- name: Synovo Group
+  url: "https://synovo.fr"
 - name: Université de Strasbourg
   url: "https://unistra.fr"
 

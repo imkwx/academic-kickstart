@@ -18,12 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Ingénieur Datacenter"
+  company = "Synovo Group"
+  company_url = "https://synovo.fr"
+  location = "Strasbourg"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+* En charge de la mise en place et du maintien du coeur de réseau
+  """
+
+[[experience]]
   title = "Apprenti Ingénieur Réseau"
   company = "Université de Strasbourg"
   company_url = "https://unistra.fr"
   location = "Strasbourg"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = """
 * Mise en place du Zero Touch Provisionning
 * Utilisation d'Ansible pour le déploiement à grande échelle d'équipements réseau
